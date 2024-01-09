@@ -1,6 +1,6 @@
 
 # Esercizio di Grafica 2D/3D
-Utilizzando il materiale fornito, ricostruisci la seguente grafica secondo lo standard indicato.
+Utilizzando il materiale fornito, ricostruisci la seguente grafica secondo lo standard indicato. Oltre all'immagine con la grafica finita, allega i file sorgente utilizzati per la realizzazione.
 
 Modella i pistoni secondo il blueprint fornito ed assegna un materiale a tuo piacimento (coerente con l'estetica del veicolo). Non occorre un livello di dettaglio particolarmente elevato e le componenti rilevanti sono solo quelle visibili nella grafica (di conseguenza non c'è bisogno di realizzare le parti interne).
 
