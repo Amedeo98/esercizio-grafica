@@ -4,6 +4,9 @@ Utilizzando il materiale fornito, ricostruisci la seguente grafica secondo lo st
 
 Modella i pistoni secondo il blueprint fornito ed assegna un materiale a tuo piacimento (coerente con l'estetica del veicolo). Non occorre un livello di dettaglio particolarmente elevato e le componenti rilevanti sono solo quelle visibili nella grafica (di conseguenza non c'è bisogno di realizzare le parti interne).
 
+Extra facoltativo:
+- Aggiungi della polvere/sporcizia ai pistoni utilizzando una texture procedurale semplice (anche qui non c'è bisogno di alti livelli di dettaglio)
+
 Nella cartella [BLEND](./BLEND) trovi il modello 3D dell'automobile, mentre nella cartella [img](./img) trovi tutte le immagini di riferimento.
 
 ![](https://i.imgur.com/4r8T5Rh.png)
